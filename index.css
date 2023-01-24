@@ -177,7 +177,7 @@ li{
     color: white;
     border-radius: 2px;
 }
-.grab{
+#grab{
     left: 706px;
     width: 436px;
     height: 80px;
@@ -191,7 +191,7 @@ li{
     line-height: 70px;
     margin-top: 20px;
 }
-.image{
+#image{
     width: 436px;
     height: 270px;
     margin-top: 10px;
